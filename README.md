@@ -29,15 +29,15 @@ Séances préparés pour le cours de Neurosciences computationnelles, Master Sci
 6. Réseaux convolutifs profonds et le cortex visuel
     1. Cortex visuel
         1. Chemin ventral et dorsal
-        1. Cortex visuel primaire    
+        2. Cortex visuel primaire    
             1. retinotopie
             2. cellules simples et complexes
         3. Détection de catégories d'objets dans l'inferotemporel
     2. Réseaux convolutifs
-        2. Éléments et relation avec le cortex V1
+        1. Éléments et relation avec le cortex V1
             1. Convolution
             2. Pooling (sous échantillonnage)
-        3. Difficultés d’entraînement
-        4. Interpretabilité
-        5. Examples adversaires
-    * **Pratique** tutoriel NN pytorch CNN + Cifar 10 [extra]
+        2. Difficultés d’entraînement
+        3. Interpretabilité
+        4. Examples adversaires
+    * **Pratique** tutoriel NN pytorch CNN + Cifar 10 [extra] 
