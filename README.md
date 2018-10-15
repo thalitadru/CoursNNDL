@@ -1,6 +1,8 @@
 # Du perceptron à l'apprentissage profond
 Séances préparés pour le cours de Neurosciences computationnelles, Master Sciences Cognitives de l'Université de Bordeaux
 
+[Slides](https://mybox.inria.fr/f/ef83fa2d30/?dl=1)
+
 ## Plan de Cours
 ### Séance 1
 1. Perceptron
@@ -40,4 +42,4 @@ Séances préparés pour le cours de Neurosciences computationnelles, Master Sci
         2. Difficultés d’entraînement
         3. Interpretabilité
         4. Examples adversaires
-    * **Pratique** tutoriel NN pytorch CNN + Cifar 10 [extra] 
+    * **Pratique** tutoriel NN pytorch CNN + Cifar 10 [extra]
