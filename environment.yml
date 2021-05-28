@@ -2,6 +2,7 @@ name: CoursNNDL
 channels:
 - conda-forge
 dependencies:
+- python=3.8
 - scikit-learn=0.24.2
 - jupyter=1.0.0
 - pip=21.1.1
