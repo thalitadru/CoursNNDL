@@ -1,45 +1,10 @@
-# Du perceptron à l'apprentissage profond
-Séances préparés pour le cours de Neurosciences computationnelles, Master Sciences Cognitives de l'Université de Bordeaux
+# Réseaux de neurones et apprentissage profond
 
-[Slides](https://mybox.inria.fr/f/ef83fa2d30/?dl=1)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/thalitadru/CoursNNDL/HEAD)
 
-## Plan de Cours
-### Séance 1
-1. Perceptron
-    1. Le neurone biologique
-    2. Le perceptron
-    3. Logique avec un Perceptron
-        * Exercice XOR
+Ce repo contient des notebooks que j'utilise pour enseigner les réseaux de neuronnes et le machine learning en général pour des étudiants en 3éme/4éme année, en formation scientifique/informatique.
 
-2. Intro à l'apprentissage automatique
-    1. Types d'apprentissage
-    2. Apprentissage supervisé
-        * **Pratique** playground.tensorflow.org
 
-3. Principes d'optimisation par descente du gradient
-    * **Pratique** Régression linéaire avec numpy
-
-### Séance 2
-
-4. Perceptron multi-couches
-    * **Pratique** Forward pass MLP en numpy et pytorch
-
-5. La retro-propagation des gradients
-    * **Pratique** MLP en pytorch avec autograd
-    * **Pratique** MLP en pytorch avec `nn` et `optim` [extra]
-
-6. Réseaux convolutifs profonds et le cortex visuel
-    1. Cortex visuel
-        1. Chemin ventral et dorsal
-        2. Cortex visuel primaire    
-            1. retinotopie
-            2. cellules simples et complexes
-        3. Détection de catégories d'objets dans l'inferotemporel
-    2. Réseaux convolutifs
-        1. Éléments et relation avec le cortex V1
-            1. Convolution
-            2. Pooling (sous échantillonnage)
-        2. Difficultés d’entraînement
-        3. Interpretabilité
-        4. Examples adversaires
-    * **Pratique** tutoriel NN pytorch CNN + Cifar 10 [extra]
+## Itérations antérieures
+### [MScSciCog](https://github.com/thalitadru/CoursNNDL/releases/tag/MScCog2018)
+Notebooks utilisés pour le cours de Neurosciences computationnelles, Master Sciences Cognitives de l'Université de Bordeaux
