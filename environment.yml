@@ -8,4 +8,5 @@ dependencies:
 - pip=21.1.1
 - matplotlib=3.2.2
 - pandas=1.2.4
-
+- ipywidgets
+- jupyter_contrib_nbextensions
