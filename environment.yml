@@ -8,5 +8,11 @@ dependencies:
 - pip=21.1.1
 - matplotlib=3.2.2
 - pandas=1.2.4
+- tensorflow=2.4.*
+- pydot
+- graphviz
 - ipywidgets
 - jupyter_contrib_nbextensions
+- jupyterlab-spellchecker
+- nodejs
+- ipympl
