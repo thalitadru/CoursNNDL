@@ -3,12 +3,13 @@ channels:
 - conda-forge
 dependencies:
 - python=3.8
+- numpy=1.19.*
 - scikit-learn=0.24.2
 - jupyter=1.0.0
 - pip=21.1.1
 - matplotlib=3.2.2
 - pandas=1.2.4
-- tensorflow=2.4.*
+- tensorflow=2.*
 - pydot
 - graphviz
 - ipywidgets
