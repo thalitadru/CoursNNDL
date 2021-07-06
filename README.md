@@ -5,6 +5,8 @@
 
 Ce repo contient des notebooks que j'utilise pour enseigner les réseaux de neuronnes et le machine learning en général pour des étudiants en 3éme/4éme année, en formation scientifique/informatique.
 
+Vous pouvez trouver les **diapos de cours** de 2021 [ici](https://mega.nz/folder/l10SESwR#-x1zuMwcVXjt9uSHyB2V0A).
+
 
 ## Itérations antérieures
 ### [MScSciCog](https://github.com/thalitadru/CoursNNDL/releases/tag/MScCog2018)
